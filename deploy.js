@@ -3,8 +3,8 @@ const Web3 = require('web3');
 const { interface, bytecode } = require('./compile');
 
 const provider = new HDWAlletProvider(
-   'side park wait diary lunar basic staff foot involve diary gaze predict',
-   'https://rinkeby.infura.io/HvMEviDI6yXbeKnVIDCu'
+   'redacted',
+   'redacted'
 );
 
 const web3 = new Web3(provider);
